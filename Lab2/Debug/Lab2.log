@@ -1,0 +1,4 @@
+﻿  EntryPoint.cpp
+F:\OSISP\Lab2\Lab2\Lab2\EntryPoint.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\OSISP\Lab2\Lab2\Lab2\EntryPoint.cpp(195,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab2.vcxproj -> F:\OSISP\Lab2\Lab2\Debug\Lab2.exe
